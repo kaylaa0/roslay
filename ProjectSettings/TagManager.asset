@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PartyHUD
+  - HeroActionBar
+  - HeroEmoteBar
+  - GameCanvas
+  - Heavy
+  - CinemachineTarget
+  - PlayerFollowCamera
+  - LightingBaked
+  - LightingRealtime
+  - LightingProbes
+  - LightingReflectionProbe
+  - Interactable
+  - WorldObjects
+  - NPC
+  - DashBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Pickup
+  - Combat Collider
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
