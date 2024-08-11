@@ -51,9 +51,9 @@ Roslay is a multiplayer roguelite dungeon crawler in a 3D world with cooperative
 diverse items, various classes, and generated dungeons and with 
 dynamic rooms.
 
-<center>
+<div align="center">
   <img src="./Assets/Art/Images/screenshot_(v0.1).png" alt="Screenshot" height="350">
-</center>
+</div>
 
 Roslay utilizes Unity and C# for development. While the game is still in development, the project is open-source and contributions are welcome. For the multiplayer aspect, Fish-Networking is used.
 
