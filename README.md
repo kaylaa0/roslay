@@ -118,7 +118,7 @@ See `LICENSE.md` for more information.-->
 
 Kayla Akyüz - kaylakyuz@gmail.com
 
-Project Link: [GitHub](https://github.com/kaylaa0/generative-panning-with-outpainting)
+Project Link: [GitHub](https://github.com/kaylaa0/roslay)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
